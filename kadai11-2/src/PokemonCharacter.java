@@ -1,4 +1,3 @@
-
 public abstract class PokemonCharacter {
 
 	protected int hp;
